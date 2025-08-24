@@ -55,6 +55,12 @@ docker compose -f docker/compose/blossom-mysql8.yaml up -d
 
 <br/><br/>
 
+# 🛠️ 拓展工具
+
+[为知笔记迁移Blossom工具](https://github.com/kidultff/wiz2blossom)
+
+<br/><br/>
+
 # 🥳 加入群聊
 
 加入群聊进行沟通，反馈问题。
