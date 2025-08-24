@@ -69,7 +69,7 @@ const transfer = () => {
   if (props.ids.size <= 0) {
     return
   }
-  if (isNull(targetDoc) || isNull(targetDoc.value)) {
+  if (isNull(targetDoc.value)) {
     return
   }
   isLoading.value = true

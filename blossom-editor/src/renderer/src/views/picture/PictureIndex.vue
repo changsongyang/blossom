@@ -235,9 +235,6 @@ const storePath = computed(() => {
 })
 
 const curIsFolder = () => {
-  if (isNull(curFolder)) {
-    return false
-  }
   if (isNull(curFolder.value)) {
     return false
   }
